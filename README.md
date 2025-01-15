@@ -1,4 +1,4 @@
-# Hi, I'm Vamsi Mohan 👋
+# Hi, I'm Vamsi Mohan Vandrangi 👋
 
 As an Emering Technology Leader and Distinguished Architect with over 20 years of experience driving digital transformation, innovation, and technology leadership, I have successfully led the development and deployment of cutting-edge solutions across the BFSI, Telecom, and Manufacturing sectors. My career has been focused on aligning technology strategies with business goals, optimizing processes, and delivering scalable, secure, and high-performing systems.
 
@@ -23,9 +23,9 @@ Specialties: • Technology Strategy & Leadership • Product Engineering • En
 - **Rust Programming Language**
 
 ## 🌍 Let's Connect
-- LinkedIn: [vamsiin](https://www.linkedin.com/in/vamsimohan)
+- LinkedIn: [vamsi.mohan](https://www.linkedin.com/in/vamsimohan)
 - GitHub: [vamsiin](https://github.com/vamsiin)
-- Email: [vamsiin@gmail.com](mailto:vamsi.in@gmail.com)
+- Email: [vamsi.in@gmail.com](mailto:vamsi.in@gmail.com)
 
 ## 📂 My Latest Projects
 - [Project 1](https://github.com/vamsiin/project1) - A cloud-based application to...
